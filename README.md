@@ -4,7 +4,8 @@
 discord.js で作る DISCORD BOT の簡単なテンプレートのようなもの
 
 ## Requirement
-* discord.js v14.7.1
+* Node.js 16.9.0 or newer is required
+
 
 ## Usage
 ### 初回のみ
